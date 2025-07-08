@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./scripts:/app/scripts
+      - ./config:/app/config
+    environment:
+      - AWS_DEFAULT_REGION=eu-central-1
