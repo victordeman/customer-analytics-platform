@@ -1,6 +1,6 @@
 # Customer Analytics Platform
 
-This project is a scalable customer analytics platform built with AWS RDS/Aurora MySQL, designed to process and analyze high-volume transaction data. It demonstrates expertise in MySQL database engineering, AWS cloud integration, query optimization, and automated deployment using Docker and GitHub Actions.
+This project is a scalable customer analytics platform built with AWS RDS/Aurora MySQL, designed to process and analyze high-volume transaction data. It demonstrates expertise in MySQL database engineering, AWS cloud integration, query optimization, and automated deployment using Docker and GitHub Actions. If you have trouble implementing of deploying the code, mail me. Afterwards, buy me a drink
 
 ## Repository Structure
 ```
